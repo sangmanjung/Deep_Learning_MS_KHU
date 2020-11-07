@@ -1,6 +1,6 @@
 ### Deep_Learning_MS_KHU
   
-- Homeworks and the summarized lecture notes for Deep Learning (graduate school in KHU)
+- Homeworks and the summarized lecture notes for Deep Learning (graduate school of KHU)
 
 #### Instructor
 - Prof. Hyeahyun Kim
